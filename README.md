@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">‎AC member‎‏ to ‏‎SMART Family‎</h3>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.softwebsolutions.com/wp-content/uploads/2020/10/flutter-app-developer.jpg)
+<h1 align="center">Hi 👋,I'm Mohamed Attalla</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed123-r&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed123-r" /> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -16,3 +19,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed123-r&show_icons=true&locale=en&layout=compact" alt="mohamed123-r" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed123-r&show_icons=true&locale=en" alt="mohamed123-r" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed123-r&" alt="mohamed123-r" /></p>
