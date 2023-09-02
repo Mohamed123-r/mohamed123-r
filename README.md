@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋,I'm Mohamed Attalla</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed123-r&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed123-r" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif](https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 - 🌱 I’m currently learning **Flutter**
 
